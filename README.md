@@ -47,7 +47,7 @@ hashmap-prefix-patterns/
 
 1) Clone the repository  
 git clone https://github.com/anshkunj/hashmap-prefix-patterns.git  
-cd Subarray-API  
+cd hashmap-prefix-patterns  
 
 2) Install dependencies  
 pip install -r requirements.txt  
