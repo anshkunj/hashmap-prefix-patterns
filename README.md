@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://github.com/anshkunj/hashmap-prefix-patterns/blob/d26bdf227fa0790aa1f272d48ead92952fdb7b4f/1768509497130.jpg" alt="Hashmap Prefix Patterns" width="1200">
+</p>
+
+<h1 align="center">Hashmap Prefix Patterns</h1>
+<p align="center">Efficient algorithmic patterns using prefix sums and hash maps 🚀</p>
+
 # 🚀 HashMap & Prefix Sum Patterns
 
 A curated collection of **HashMap and prefix sum algorithm problems** covering frequency counting, cumulative sums, and analytics challenges. Each solution is optimized, explained with examples, and mapped to real-world scenarios like log processing, data streams, and array manipulation.
@@ -6,8 +13,8 @@ A curated collection of **HashMap and prefix sum algorithm problems** covering f
 
 ## 🧠 Features
 - Well-structured Python solutions  
-- Optimized O(n) algorithms (no brute force)  
-- Clear explanation of hashmap & prefix sum logic  
+- Optimized O(n) algorithms (no brute force  
+- Clear explanation of hashmap & 
 - ASCII diagrams showing algorithm flow  
 - JSON-friendly examples where applicable  
 
