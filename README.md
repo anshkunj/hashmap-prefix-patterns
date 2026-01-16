@@ -23,11 +23,12 @@ A curated collection of **HashMap and prefix sum algorithm problems** covering f
 ## 📂 Repo Structure
 
 hashmap-prefix-patterns/  
-├── README.md                     # This file  
-├── main.py  
-├── logic.py  
-├── models.py  
-├── ... (add more hashmap/prefix sum problems)  
+├── main.py          # FastAPI app & routes
+├── logic.py         # Core algorithm implementations  
+├── models.py        # Pydantic request models  
+├── requirements.txt  
+├── README.md  
+└── LICENSE  
 
 ---
 
