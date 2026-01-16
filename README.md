@@ -73,10 +73,8 @@ ReDoc: http://127.0.0.1:8000/redoc
 
 ## 🌐 Live API
 
-Base URL:  
-https://hashmap-prefix-patterns.onrender.com  
-Docs:  
-https://hashmap-prefix-patterns.onrender.com/docs
+Base URL: https://hashmap-prefix-patterns.onrender.com  
+Docs: https://hashmap-prefix-patterns.onrender.com/docs
 
 ---
 
