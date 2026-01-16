@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hashmap Prefix Patterns</h1>
-<p align="center">Efficient algorithmic patterns using prefix sums and hash maps 🚀</p>
+<p align="center">Learn common prefix + hashmap patterns for efficient algorithm design 🚀</p>
 
 # 🚀 HashMap & Prefix Sum Patterns
 
