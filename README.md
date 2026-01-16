@@ -33,6 +33,7 @@ hashmap-prefix-patterns/
 ---
 
 ## 🏗️ How This Repo Works  
+- logic.py contain logic of all problems  
 - HashMap / prefix sum logic explained  
 - Key patterns highlighted for **real-world applications**  
 - Focus on cumulative sum, frequency counting, and O(n) optimizations  
