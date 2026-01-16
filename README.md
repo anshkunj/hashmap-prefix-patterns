@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/anshkunj/hashmap-prefix-patterns/blob/d26bdf227fa0790aa1f272d48ead92952fdb7b4f/1768509497130.jpg" alt="Hashmap Prefix Patterns" width="1200">
+  <img src="https://github.com/anshkunj/hashmap-prefix-patterns/blob/0bbf91dbb47d55f1ca2af9b8fbf11698caae30f7/file_000000000e5c71fa9f1fbe9568a479f8.png" alt="Hashmap Prefix Patterns" width="1200">
 </p>
 
 <h1 align="center">Hashmap Prefix Patterns</h1>
