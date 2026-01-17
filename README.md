@@ -122,7 +122,7 @@ k = 3
 Output:
 count = 2
 
-5) Group Anagrams
+### 5️⃣ Group Anagrams
 Endpoint: /hashmap/group-anagrams
 
 Input:
