@@ -26,6 +26,7 @@ hashmap-prefix-patterns/
 ├── main.py          # FastAPI app & routes
 ├── logic.py         # Core algorithm implementations  
 ├── models.py        # Pydantic request models  
+├── .gitignore  
 ├── requirements.txt  
 ├── render.yaml  
 ├── README.md       # Project Overview 
