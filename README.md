@@ -223,7 +223,7 @@ MIT Licence
 
 ## 🤝 Contributing
 Contributors are welcome!  
-• Add new sliding window problems  
+• Add new ```hashmap-prefix``` problems  
 • Improve explanations  
 • Optimise exists code  
 
