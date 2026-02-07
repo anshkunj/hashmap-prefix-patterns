@@ -21,15 +21,16 @@ A curated collection of **HashMap and prefix sum algorithm problems** covering f
 ---
 
 ## 📂 Repo Structure
-
+```
 hashmap-prefix-patterns/  
 ├── main.py          # FastAPI app & routes
 ├── logic.py         # Core algorithm implementations  
 ├── models.py        # Pydantic request models  
 ├── requirements.txt  
-├── README.md  
-└── LICENSE  
-
+├── render.yaml  
+├── README.md       # Project Overview 
+└── LICENSE        # Licence file (MIT)  
+```
 ---
 
 ## 🏗️ How This Repo Works  
